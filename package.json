@@ -1,0 +1,14 @@
+{
+  "name": "cryptosite-main-4",
+  "version": "1.0.0",
+  "description": "Purpose: I made a website that automatically updates the prices of different cryptos.",
+  "main": "Contactform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}
